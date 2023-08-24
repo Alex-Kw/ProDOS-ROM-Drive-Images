@@ -5,4 +5,4 @@ ProDOS242_Beta5.po - ProDOS 2.4.2 and tools (See https://www.applefritter.com/co
 
 IIGS_Mass_nofinderinfo_1MB_withfirmware.po - GSOS Read Only Bootable ROM (See https://www.applefritter.com/content/gsos-ro-rom-image-tjboldt-prodos-rom-drive-gsos-601)
 
-startup_tj_iie.po - AutoBoot Rom for ESP32 Softcard. Contains IVO's launcher utility. (See https://www.applefritter.com/comment/103267#comment-103267)
+ESP32_startup_tj_iie.po - AutoBoot Rom for ESP32 Softcard. Contains IVO's launcher utility. (See https://www.applefritter.com/comment/103267#comment-103267)
